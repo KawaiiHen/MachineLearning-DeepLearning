@@ -13,7 +13,8 @@ The PathVQA model is tailored for medical image analysis using the PathVQA datas
 ## Flickr 8k VQA Model
 
 In addition to the PathVQA model, this repository also includes a VQA model trained on the Flickr 8k dataset. This model is designed to handle a variety of visual questions related to general images.
-
+..
 ### Model Details
 - **Dataset Used:** Flickr 8k
 - **Model Description:** Details on the specific model architecture and training process will be provided here.
+..
