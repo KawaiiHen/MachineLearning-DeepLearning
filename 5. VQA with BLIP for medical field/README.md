@@ -8,4 +8,5 @@ The PathVQA model is tailored for medical image analysis using the PathVQA datas
 
 ### Model Details
 - **Model Used:** Blip (Bootstrapping Language-Image Pre-training)
+- **Paper Link:** https://arxiv.org/abs/2201.12086
 - **Fine-Tuning Process:** Includes preprocessing of images, questions, and answers, as well as adding new vocabulary to the pre-trained list.
